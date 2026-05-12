@@ -30,25 +30,7 @@ What is Gradient Descent?
 
 &#x20;
 
-High Error
 
-&#x20;   |     \\
-
-&#x20;   |      \\
-
-&#x20;   |       \\        <- We start here (random weights, high error)
-
-&#x20;   |        \\
-
-&#x20;   |         \\
-
-&#x20;   |          \\\_\_\_/    <- We want to reach here (low error, trained model)
-
-&#x20;   |
-
-Low Error
-
-&#x20;        Weights →--------------
 
 &#x20;
 
