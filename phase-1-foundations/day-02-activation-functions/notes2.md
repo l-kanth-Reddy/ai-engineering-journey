@@ -29,7 +29,7 @@ There are Four types of Activation Functions they are:
 3. ReLU — Rectified Linear Unit..........ReLU(x) = max(0, x)
 4. SoftMax................What it does: Takes a list of numbers and converts them into probabilities that add up to 1.
 
-the code of the all activation functions is provided in the GitHub day2 folder.
+the code of the all activation functions is provided in the GitHub day2 folder.(https://github.com/l-kanth-Reddy/ai-engineering-journey/blob/main/phase-1-foundations/day-02-activation-functions/activation_func.py)
  "Where exactly is the activation function applied? Show me the position."
 Here's the exact flow inside one neuron:
 Inputs → Weighted Sum → [ACTIVATION FUNCTION] → Output to next layer
